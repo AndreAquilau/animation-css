@@ -1,6 +1,6 @@
 ## Documentação de Como Criar Animações com CSS.
 
-#### KeyFrames
+### KeyFrames
 
 * Utilizamos para definimos pontos chaves em um intervalo do inicio ao final da animação.
 * Podemos usar os keyframes de três formas.
@@ -41,4 +41,20 @@
 }
 ~~~~
 
-#### Animation
+### Animation
+
+#### Animation-name
+* Especifica o nome dado na diretiva @kayframes que descrever a animação a ser aplicada ao elemento.
+~~~css
+.element {
+  animation-name: test;
+}
+~~~
+#### Animation-duration:
+* Define um tempo que a animação devera ser executada.
+* Aceita valores em segundos com a letra "s" e milessegundos com a letra "ms".
+~~~css
+.element {
+  animation-duration: 1s;
+}
+~~~
