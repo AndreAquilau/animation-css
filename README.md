@@ -119,3 +119,19 @@
     * alternate: a animação será executada do inicio para o final e depois do final para o inicio.
     * alternate-reverse: a animação será iniciada do final para o inicio e depois alternando.
 
+
+#### Animation-fill-mode
+* Define quais valores serão aplicado ao elemento no inicio ou no final da animação.
+* Podemos definir o ultimo estado do elemeto e o primeiro estado do elemento.
+~~~css
+.element {
+  animation-fill-mode: forwords;
+  animation-fill-mode: backwords;
+  animation-fill-mode: both;
+}
+~~~
+* Opções
+    * forwords: a animação não retorna os valores de suas propriedades para o inicio ao finalizar sua execução.
+    * backwords: a animação retorna para os valores iniciais do elemento.
+    * both: é a união dos valores forwords com backwords.
+
