@@ -146,4 +146,11 @@
 * Opções
     * running: a animção executa normalmente.
     * paused: a animação será pausada.
-
+#### Animetion References
+* [Easing functions](https://easings.net/)
+* [cubic-bezier](https://cubic-bezier.com/)
+* [Animista: scale-up, scale-down, rotate, rotate-scale, rotate-90, flip, slide, text, background...](https://animista.net/)
+* [Animatable CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
+* [Princípios Jedi de Motion UI (parte 1): tipos de animação de interface](https://desenvolvimentoparaweb.com/ux/motion-ui-principios-tipos-animacao-interface/)
+* [Jumps: o novo steps() em Web Animation
+](https://desenvolvimentoparaweb.com/css/jumps-steps-css-web-animation/)
