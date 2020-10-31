@@ -104,3 +104,18 @@
   animation-iteration-count: infinite;
 }
 ~~~
+
+#### Animation-direction
+* Define a direção que a animação será executada.
+~~~css
+.element {
+  animation-direction: reverse;
+  animation-direction: alternate;
+  animation-direction: alternate-reverse;
+}
+~~~
+* Opções
+    * reverse: a animação será executada do final para o inicio.
+    * alternate: a animação será executada do inicio para o final e depois do final para o inicio.
+    * alternate-reverse: a animação será iniciada do final para o inicio e depois alternando.
+
