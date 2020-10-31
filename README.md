@@ -135,3 +135,15 @@
     * backwords: a animação retorna para os valores iniciais do elemento.
     * both: é a união dos valores forwords com backwords.
 
+#### Animation-play-state
+* Define se a animação está sendo executada ou pausada.
+~~~css
+.element {
+  animation-play-state: running;
+  animation-play-state: paused;
+}
+~~~
+* Opções
+    * running: a animção executa normalmente.
+    * paused: a animação será pausada.
+
