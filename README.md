@@ -93,3 +93,14 @@
   animation-delay: 2s;
 }
 ~~~
+
+
+#### Animation-interation-count
+* Define quantas vezes a animação vai ser executada.
+~~~css
+.element {
+  animation-iteration-count: 3;
+  animation-iteration-count: 3.5;
+  animation-iteration-count: infinite;
+}
+~~~
