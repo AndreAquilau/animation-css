@@ -50,14 +50,18 @@
   animation-name: test;
 }
 ~~~
+
+
 #### Animation-duration
 * Define um tempo que a animação devera ser executada.
-* Aceita valores em segundos com a letra "s" e milessegundos com a letra "ms".
+* Aceita valores em segundos com a letra "s" e milissegundos com a letra "ms".
 ~~~css
 .element {
   animation-duration: 1s;
 }
 ~~~
+
+
 #### Animation-timing-function
 * Essa propriedade define como uma animação irá progredir ao longo da sua duração.
 * É uma função de tempo aplicada na animação.
@@ -76,6 +80,16 @@
     * alguns sites já fornece alguns valores com base nos parâmetros solicitados.
     * cubic-bezier é um diferencial na animação.
 * Steps().
-    * Também podemos utilizar o steps pra trabalhar com quadros por segundos ou mílessegundos.
+    * Também podemos utilizar o steps pra trabalhar com quadros por segundos ou milissegundos.
     * steps(3) sera exibido 3 frames assim fica possivel criar cenas animadas com essa propriedade.
     * steps(3, jump-start) e steps(3, jump-end).
+
+
+#### Animation-delay
+* Especifica a quantidade de tempo de espera para animação iniciar.
+* Aceita segundos e milissegundos.
+~~~css
+.element {
+  animation-delay: 2s;
+}
+~~~
