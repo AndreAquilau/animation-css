@@ -13,7 +13,6 @@
 * ### Transform
     ---------------------------------------------------------------
     |[Roate](https://github.com/AndreAquilau/animation-css#rotate)|
-    ---------------------------------------------------------------
     * [RotateZ](https://github.com/AndreAquilau/animation-css#rotatez)
     * [RotateX](https://github.com/AndreAquilau/animation-css#rotatex)
     * [RotateY](https://github.com/AndreAquilau/animation-css#rotatey)
