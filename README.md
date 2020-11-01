@@ -302,7 +302,7 @@
 * Recebi 3 parâmetros scale(eixoX: number, eixoY: number, eixoZ: number)
 ~~~css
 .element {
-  transform: scale3d(2);
+  transform: scale3d(2, 2, 2);
 }
 ~~~
 
