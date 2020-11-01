@@ -1,5 +1,18 @@
 ## Documentação de Como Criar Animações com CSS.
 
+#### * Keyframes
+#### * Animation
+#####   * [Animation-name]()
+#####   * [Animation-duration]()
+#####   * [Animation-timing-function]()
+#####   * [Animation-delay]()
+#####   * [Animation-interation-count]()
+#####   * [Animation-direction]()
+#####   * [Animation-fill-mode]()
+#####   * [Animation-play-state]()
+#####   * [Animation References]()
+
+
 ### KeyFrames
 
 * Utilizamos para definimos pontos chaves em um intervalo do inicio ao final da animação.
@@ -146,7 +159,7 @@
 * Opções
     * running: a animção executa normalmente.
     * paused: a animação será pausada.
-#### Animetion References
+#### Animation References
 * [Easing functions](https://easings.net/)
 * [cubic-bezier](https://cubic-bezier.com/)
 * [Animista: scale-up, scale-down, rotate, rotate-scale, rotate-90, flip, slide, text, background...](https://animista.net/)
