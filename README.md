@@ -11,7 +11,7 @@
     * [Animation-play-state](https://github.com/AndreAquilau/animation-css#animation-play-state)
     * [Animation References](https://github.com/AndreAquilau/animation-css#animation-references)
 * ### Transform
-    > <span style="color:blue">[Roate](https://github.com/AndreAquilau/animation-css#rotate)</span>,
+    > [Roate](https://github.com/AndreAquilau/animation-css#rotate)</span>,
     > [RotateZ](https://github.com/AndreAquilau/animation-css#rotatez),
     > [RotateX](https://github.com/AndreAquilau/animation-css#rotatex),
     > [RotateY](https://github.com/AndreAquilau/animation-css#rotatey),
