@@ -170,7 +170,7 @@
 
 
 ### Transform
-
+* A propriedade transform e uma propriedade de transformação do elemento e pode aceita mais de um valor.
 #### Rotate
 * Rotação no eixo Z no sentido horário e anti-horário.
 * Aceita valores em deg = grau ou turn = volta.
@@ -183,7 +183,7 @@
 }
 ~~~
 
-#### RotateZ()
+#### RotateZ
 * Rotação no eixo Z no sentido horário e anti-horário.
 * Aceita valores em deg = grau ou turn = volta.
 * deg >= 0 ou deg <= 0.
@@ -196,7 +196,7 @@
 ~~~
 
 
-#### RotateX()
+#### RotateX
 * Rotação no eixo X no sentido horário e anti-horário.
 * Aceita valores em deg = grau ou turn = volta.
 * deg >= 0 ou deg <= 0.
@@ -208,7 +208,7 @@
 }
 ~~~
 
-#### RotateY()
+#### RotateY
 * Rotação no eixo Y no sentido horário e anti-horário.
 * Aceita valores em deg = grau ou turn = volta.
 * deg >= 0 ou deg <= 0.
@@ -221,7 +221,7 @@
 ~~~
 
 
-#### Rotate3d()
+#### Rotate3d
 * Rotação nos três eixos X, Y, Z no sentido horário e anti-horário.
 * recebe 4 parâmetros.
 * os três primeiros parâmetros são referentes ao eixo x, y, z e recebi apenas dois valores "1" haverá rotação, "0" não haverá rotação.
