@@ -231,3 +231,32 @@
   transform: rotate3d(x = 0 || 1, y = 0 || 1, z = 0 || 1, deg || turn)
 }
 ~~~
+
+
+#### Skew
+* Skew é uma propriedade de inclinação do elemento no eixo x e y.
+* Aceita os seguintes valores em deg ou turn.
+~~~css
+.element {
+  transform: skew(1turn || 360deg);
+}
+~~~
+
+#### SkewX
+* SkewX é uma propriedade de inclinação do elemento no eixo x.
+* Aceita os seguintes valores em deg ou turn.
+~~~css
+.element {
+  transform: skewX(1turn || 360deg);
+}
+~~~
+
+#### SkewY
+* SkewX é uma propriedade de inclinação do elemento no eixo Y.
+* Aceita os seguintes valores em deg ou turn.
+~~~css
+.element {
+  transform: skewY(1turn || 360deg);
+}
+~~~
+
