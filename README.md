@@ -12,7 +12,7 @@
     * [Animation References](https://github.com/AndreAquilau/animation-css#animation-references)
 * ### Transform
     ---------------------------------------------------------------
-  **[Roate](https://github.com/AndreAquilau/animation-css#rotate)**
+    __[Roate](https://github.com/AndreAquilau/animation-css#rotate)__
     [RotateZ](https://github.com/AndreAquilau/animation-css#rotatez)
     [RotateX](https://github.com/AndreAquilau/animation-css#rotatex)
     [RotateY](https://github.com/AndreAquilau/animation-css#rotatey)
