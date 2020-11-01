@@ -172,7 +172,7 @@
 ### Transform
 
 #### Rotate
-* Rotação no eixo z no sentido horário e anti-horário.
+* Rotação no eixo Z no sentido horário e anti-horário.
 * Aceita valores em deg = grau ou turn = volta.
 * deg >= 0 ou deg <= 0.
 * turn >= 0 ou turn < 0.
@@ -184,13 +184,38 @@
 ~~~
 
 #### RotateZ()
-* Rotação no eixo z no sentido horário e anti-horário.
+* Rotação no eixo Z no sentido horário e anti-horário.
 * Aceita valores em deg = grau ou turn = volta.
 * deg >= 0 ou deg <= 0.
 * turn >= 0 ou turn < 0.
 * 360deg === 1turn.
 ~~~css
 .element {
-  transform: rotate(360deg) rotate(0.5turn);
+  transform: rotateZ(360deg) rotateZ(0.5turn);
+}
+~~~
+
+
+#### RotateX()
+* Rotação no eixo X no sentido horário e anti-horário.
+* Aceita valores em deg = grau ou turn = volta.
+* deg >= 0 ou deg <= 0.
+* turn >= 0 ou turn < 0.
+* 360deg === 1turn.
+~~~css
+.element {
+  transform: rotateX(360deg) rotateX(0.5turn);
+}
+~~~
+
+#### RotateY()
+* Rotação no eixo Y no sentido horário e anti-horário.
+* Aceita valores em deg = grau ou turn = volta.
+* deg >= 0 ou deg <= 0.
+* turn >= 0 ou turn < 0.
+* 360deg === 1turn.
+~~~css
+.element {
+  transform: rotateY(360deg) rotateY(0.5turn);
 }
 ~~~
