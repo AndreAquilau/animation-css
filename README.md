@@ -167,3 +167,17 @@
 * [Princípios Jedi de Motion UI (parte 1): tipos de animação de interface](https://desenvolvimentoparaweb.com/ux/motion-ui-principios-tipos-animacao-interface/)
 * [Jumps: o novo steps() em Web Animation
 ](https://desenvolvimentoparaweb.com/css/jumps-steps-css-web-animation/)
+
+
+### Transform
+
+#### Rotate
+* rotação no eixo z no sentido horário e anti-horário.
+* Aceita valores em deg = grau ou turn = volta.
+* deg >= 0 ou deg <= 0.
+* turn >= 0 ou turn < 0.
+~~~css
+.element {
+  transform: rotate(360deg);
+}
+~~~
