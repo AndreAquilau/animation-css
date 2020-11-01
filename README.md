@@ -12,11 +12,11 @@
     * [Animation References](https://github.com/AndreAquilau/animation-css#animation-references)
 * ### Transform
     ---------------------------------------------------------------
-    <p>[Roate](https://github.com/AndreAquilau/animation-css#rotate)</p>
-    <p>[RotateZ](https://github.com/AndreAquilau/animation-css#rotatez)</p>
-    <p>[RotateX](https://github.com/AndreAquilau/animation-css#rotatex)</p>
-    <p>[RotateY](https://github.com/AndreAquilau/animation-css#rotatey)</p>
-    <p>[Rotate3D](https://github.com/AndreAquilau/animation-css#rotate3d)</p>
+    [Roate](https://github.com/AndreAquilau/animation-css#rotate)
+    [RotateZ](https://github.com/AndreAquilau/animation-css#rotatez)
+    [RotateX](https://github.com/AndreAquilau/animation-css#rotatex)
+    [RotateY](https://github.com/AndreAquilau/animation-css#rotatey)
+    [Rotate3D](https://github.com/AndreAquilau/animation-css#rotate3d)
     ---------------------------------------------------------------
     * [Skew](https://github.com/AndreAquilau/animation-css#skew)
     * [SkewX](https://github.com/AndreAquilau/animation-css#skewx)
