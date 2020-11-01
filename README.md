@@ -1,16 +1,16 @@
 ## Documentação de Como Criar Animações com CSS.
 
-#### * Keyframes
-#### * Animation
-#####   * [Animation-name]()
-#####   * [Animation-duration]()
-#####   * [Animation-timing-function]()
-#####   * [Animation-delay]()
-#####   * [Animation-interation-count]()
-#####   * [Animation-direction]()
-#####   * [Animation-fill-mode]()
-#####   * [Animation-play-state]()
-#####   * [Animation References]()
+* #### [Keyframes](https://github.com/AndreAquilau/animation-css#keyframes)
+* #### Animation
+* ##### [Animation-name](https://github.com/AndreAquilau/animation-css#animation-name)
+* ##### [Animation-duration](https://github.com/AndreAquilau/animation-css#animation-duration)
+* ##### [Animation-timing-function](https://github.com/AndreAquilau/animation-css#animation-timing-function)
+* ##### [Animation-delay](https://github.com/AndreAquilau/animation-css#animation-delay)
+* ##### [Animation-interation-count](https://github.com/AndreAquilau/animation-css#animation-interation-count)
+* ##### [Animation-direction](https://github.com/AndreAquilau/animation-css#animation-direction)
+* ##### [Animation-fill-mode](https://github.com/AndreAquilau/animation-css#animation-fill-mode)
+* ##### [Animation-play-state](https://github.com/AndreAquilau/animation-css#animation-play-state)
+* ##### [Animation References](https://github.com/AndreAquilau/animation-css#animation-references)
 
 
 ### KeyFrames
