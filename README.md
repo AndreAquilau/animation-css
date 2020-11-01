@@ -306,4 +306,45 @@
 }
 ~~~
 
+#### Translate
+* A propriedade translate e referente a movimentação do elemento no eixo X, Y e Z.
+* Aceita valores em px, vw, vh e %.
+* Aceita valores positivos e negativos.
+~~~css
+.element {
+  transform: translate(10px) /*eixo X e Y*/;
+}
+~~~
+
+#### TranslateX
+* A propriedade translate e referente a movimentação do elemento no eixo X.
+* Aceita valores em px, vw, vh e %.
+* Se movimenta para a esquerda ou  a direita.
+~~~css
+.element {
+  transform: translateX(10px) /*eixo X*/;
+}
+~~~
+
+#### TranslateY
+* A propriedade translate e referente a movimentação do elemento no eixo Y.
+* Aceita valores em px, vw, vh e %.
+* Se movimenta para cima ou para baixo.
+~~~css
+.element {
+  transform: translateY(10px) /*eixo Y*/;
+}
+~~~
+
+#### TranslateZ
+* A propriedade translate e referente a movimentação do elemento no eixo Z.
+* Se movimenta para frente ou para tras.
+* Aceita valores em px, vw, vh e %.
+~~~css
+.element {
+  transform: translateZ(10px) /*eixo Z*/;
+}
+~~~
+
+
 
