@@ -75,7 +75,11 @@
 ~~~~
 
 ### Animation
-
+~~~css
+.element {
+  animation: name duration delay fill-mode timing-function interation-count direction;
+}
+~~~
 #### Animation-name
 * Especifica o nome dado na diretiva @kayframes que descrever a animação a ser aplicada ao elemento.
 ~~~css
