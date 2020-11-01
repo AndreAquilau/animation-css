@@ -1,7 +1,6 @@
 ## Documentação de Como Criar Animações com CSS.
 
-* ##### [Keyframes](https://github.com/AndreAquilau/animation-css#keyframes)
-* ##### Animation
+* ### Animation
     * [Animation-name](https://github.com/AndreAquilau/animation-css#animation-name)
     * [Animation-duration](https://github.com/AndreAquilau/animation-css#animation-duration)
     * [Animation-timing-function](https://github.com/AndreAquilau/animation-css#animation-timing-function)
@@ -11,7 +10,7 @@
     * [Animation-fill-mode](https://github.com/AndreAquilau/animation-css#animation-fill-mode)
     * [Animation-play-state](https://github.com/AndreAquilau/animation-css#animation-play-state)
     * [Animation References](https://github.com/AndreAquilau/animation-css#animation-references)
-* ##### Transform
+* ### Transform
     * [Roate](https://github.com/AndreAquilau/animation-css#rotate)
     * [RotateZ](https://github.com/AndreAquilau/animation-css#rotatez)
     * [RotateX](https://github.com/AndreAquilau/animation-css#rotatex)
