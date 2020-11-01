@@ -15,19 +15,22 @@
     > [RotateZ](https://github.com/AndreAquilau/animation-css#rotatez),
     > [RotateX](https://github.com/AndreAquilau/animation-css#rotatex),
     > [RotateY](https://github.com/AndreAquilau/animation-css#rotatey),
-    > [Rotate3D](https://github.com/AndreAquilau/animation-css#rotate3d)
-    * [Skew](https://github.com/AndreAquilau/animation-css#skew)
-    * [SkewX](https://github.com/AndreAquilau/animation-css#skewx)
-    * [SkewY](https://github.com/AndreAquilau/animation-css#skewy)
-    * [Scale](https://github.com/AndreAquilau/animation-css#scale)
-    * [ScaleX](https://github.com/AndreAquilau/animation-css#scalex)
-    * [ScaleY](https://github.com/AndreAquilau/animation-css#scaley)
-    * [ScaleZ](https://github.com/AndreAquilau/animation-css#scalez)
-    * [Scale3d](https://github.com/AndreAquilau/animation-css#scale3d)
-    * [Translate](https://github.com/AndreAquilau/animation-css#translate)
-    * [TranslateX](https://github.com/AndreAquilau/animation-css#translatex)
-    * [TranslateY](https://github.com/AndreAquilau/animation-css#translatey)
-    * [TranslateZ](https://github.com/AndreAquilau/animation-css#translatez)
+    > [Rotate3D](https://github.com/AndreAquilau/animation-css#rotate3d).
+    --------------------------------------------------------------------
+    > [Skew](https://github.com/AndreAquilau/animation-css#skew),
+    > [SkewX](https://github.com/AndreAquilau/animation-css#skewx),
+    > [SkewY](https://github.com/AndreAquilau/animation-css#skewy).
+    --------------------------------------------------------------------
+    > [Scale](https://github.com/AndreAquilau/animation-css#scale),
+    > [ScaleX](https://github.com/AndreAquilau/animation-css#scalex),
+    > [ScaleY](https://github.com/AndreAquilau/animation-css#scaley),
+    > [ScaleZ](https://github.com/AndreAquilau/animation-css#scalez),
+    > [Scale3d](https://github.com/AndreAquilau/animation-css#scale3d).
+    --------------------------------------------------------------------
+    > [Translate](https://github.com/AndreAquilau/animation-css#translate),
+    > [TranslateX](https://github.com/AndreAquilau/animation-css#translatex),
+    > [TranslateY](https://github.com/AndreAquilau/animation-css#translatey),
+    > [TranslateZ](https://github.com/AndreAquilau/animation-css#translatez).
 
 
 ### KeyFrames
