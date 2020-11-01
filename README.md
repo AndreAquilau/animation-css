@@ -222,7 +222,7 @@
 
 
 #### Rotate3d()
-* Rotação nos três eixos X, Y, Y no sentido horário e anti-horário.
+* Rotação nos três eixos X, Y, Z no sentido horário e anti-horário.
 * recebe 4 parâmetros.
 * os três primeiros parâmetros são referentes ao eixo x, y, z e recebi apenas dois valores "1" haverá rotação, "0" não haverá rotação.
 * o quarto parâmetro é referente a rotção do elemento.
