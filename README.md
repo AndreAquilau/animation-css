@@ -366,5 +366,57 @@
 }
 ~~~
 
+### Background-Animation
+#### linear-gradient
+* O linear gradient é um propriedade de fundo onde definimos cores a serem mostradas
+* O primeiro parâmetro é o ângulo que as cores irá se iniciar.
+~~~css
+body {
+            background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab) no-repeat;
+            background-size: 300% 300%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 300vh;
+            animation: gradient 10s cubic-bezier(.17,.67,.83,.67) infinite alternate;
+        }
 
+        @keyframes gradient {
+            0%{
+                background-position: 0% 50%;
+            }
+            50%{
+                background-position: 100% 50%;
+            }
+            100%{
+                background-position: 0% 50%;
+            }
+        }
+~~~
+#### radial-gradient
+* O linear gradient radial é um propriedade de fundo onde definimos cores a serem mostradas
+* Recebi como parâmetro apenas cores, as cores começa a ser mostrada do centro para as bordas.
+~~~css
+ body {
+            background: radial-gradient(#ee7752, #e73c7e, #23a6d5, #23d5ab) no-repeat;
+            background-size: 300% 300%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 300vh;
+            animation: gradient 10s cubic-bezier(.17,.67,.83,.67) infinite alternate;
+        }
+
+        @keyframes gradient {
+            0%{
+                background-position: 0% 50%;
+            }
+            50%{
+                background-position: 100% 50%;
+            }
+            100%{
+                background-position: 0% 50%;
+            }
+        }
+~~~
 
