@@ -260,3 +260,50 @@
 }
 ~~~
 
+#### Scale
+* Scale é uma propriedade referente ao tamanho do elemento tando em uma visão 2D ou 3D.
+* Aceita valores numéricos onde 1 e a mante todas as dimenções do elemento tanto altura, largura e profundidade.
+~~~css
+.element {
+  transform: scale(2);
+}
+~~~
+
+#### ScaleX
+* ScaleX é uma propriedade referente a lagura do elemento tando em uma visão 2D ou 3D.
+* Aceita valores numéricos onde 1 e a mante todas as dimenções do elemento tanto altura, largura e profundidade.
+~~~css
+.element {
+  transform: scaleX(2);
+}
+~~~
+
+#### ScaleY
+* ScaleY é uma propriedade referente a altura do elemento tando em uma visão 2D ou 3D.
+* Aceita valores numéricos onde 1 e a mante todas as dimenções do elemento tanto altura, largura e profundidade.
+~~~css
+.element {
+  transform: scaleY(2);
+}
+~~~
+
+#### ScaleZ
+* ScaleZ é uma propriedade referente a profundidade do elemento tando em uma visão 2D ou 3D.
+* Aceita valores numéricos onde 1 e a mante todas as dimenções do elemento tanto altura, largura e profundidade.
+~~~css
+.element {
+  transform: scaleZ(2);
+}
+~~~
+
+#### Scale3d
+* Scale3d é uma propriedade referente a altura, largura, profundidade do elemento tando em uma visão 2D ou 3D.
+* Aceita valores numéricos onde 1 e a mante todas as dimenções do elemento tanto altura, largura e profundidade.
+* Recebi 3 parâmetros scale(eixoX: number, eixoY: number, eixoZ: number)
+~~~css
+.element {
+  transform: scale3d(2);
+}
+~~~
+
+
